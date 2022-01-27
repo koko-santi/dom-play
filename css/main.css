@@ -6,7 +6,8 @@
 
 
 html {
-    background-image: url("https://ak.picdn.net/shutterstock/videos/6144476/thumb/1.jpg");
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+    background-color: #253242;
     font-family: 'Balsamiq Sans', cursive;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -41,13 +42,13 @@ h2,h3 {
 }
 
 a {
-    color:#CAB8FF;
+    color:#221f29;
     text-decoration: none;
 }
 
 a:hover {
     color: black;
-    background-color: #92b1df96;
+    background-color: #f8f8f896;
     text-decoration: none;
 }
 
